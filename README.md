@@ -10,7 +10,7 @@ Facebook Login
 * https://developers.facebook.com/docs/facebook-login/android/
 
 Implementation Google & Facebook Authentication.
-* https://gitlab.com/miteshsardhara/Ejjar/blob/master/app/src/main/java/com/estate/ejjarapp/EjjarLoginActivity.java
+* (For Gitlab Shared Users Only) https://gitlab.com/miteshsardhara/Ejjar/blob/master/app/src/main/java/com/estate/ejjarapp/EjjarLoginActivity.java
 
 Social Sharing
 * https://www.codeproject.com/Articles/815900/Android-social-network-integration
