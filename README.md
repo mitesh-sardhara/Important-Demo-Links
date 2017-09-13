@@ -26,3 +26,6 @@ Pager Tabs
 
 Slidemenu + Pager tabs
 * https://inducesmile.com/android/add-swipe-tabs-inside-navigation-drawer-in-android/
+
+Recycler View Simple Pagination
+* https://androidfreetutorial.wordpress.com/2016/06/29/android-pagination-on-recyclerview/
