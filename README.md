@@ -14,3 +14,12 @@ Implementation Google & Facebook Authentication.
 
 Social Sharing
 * https://www.codeproject.com/Articles/815900/Android-social-network-integration
+
+Slidemenu Navigation Drawer with Fragments
+* https://www.simplifiedcoding.net/android-navigation-drawer-example-using-fragments/
+
+Pager Tabs
+* https://www.simplifiedcoding.net/android-tablayout-example-using-viewpager-fragments/
+
+Slidemenu + Pager tabs
+* https://inducesmile.com/android/add-swipe-tabs-inside-navigation-drawer-in-android/
