@@ -9,6 +9,9 @@ Facebook Login
 * https://www.sitepoint.com/integrating-the-facebook-api-with-android/
 * https://developers.facebook.com/docs/facebook-login/android/
 
+Twitter Login using Fabric
+* https://www.simplifiedcoding.net/twitter-login-android-tutorial-integrating-twitter-login/
+
 Implementation Google & Facebook Authentication.
 * (For Gitlab Shared Users Only) https://gitlab.com/miteshsardhara/Ejjar/blob/master/app/src/main/java/com/estate/ejjarapp/EjjarLoginActivity.java
 
