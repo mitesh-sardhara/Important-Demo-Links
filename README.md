@@ -30,3 +30,6 @@ Slidemenu + Pager tabs
 Recycler View Simple Pagination
 * https://androidfreetutorial.wordpress.com/2016/06/29/android-pagination-on-recyclerview/
 * (Using Firebase) https://github.com/mmazzarolo/firebase-recyclerview
+
+Expandable RecyclerView
+* https://github.com/SelvaGaneshM/SectionedExpandableGridRecyclerView-master
