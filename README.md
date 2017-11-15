@@ -37,6 +37,9 @@ Expandable RecyclerView
 Some Demo Apps
 * http://asmncl.blogspot.in/
 
+Material Animations
+* https://github.com/lgvalle/Material-Animations
+
 Coordinator Layout Examples
 * https://github.com/saulmm/CoordinatorExamples
 * https://github.com/saulmm/CoordinatorBehaviorExample
